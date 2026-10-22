@@ -7,7 +7,7 @@
 // ============================================
 // تنظیمات — این بخش رو پر کن
 // ============================================
-const BOT_TOKEN = '8980319082:AAG3j5OIMHe6vsGB99jvxaqncpgOReU4k8w';
+const BOT_TOKEN = 'توکن ربات خودتون';
 const BOT_USERNAME = 'hamedvpns_bot';
 const BOT_BASE_URL = 'https://hamedp.71hp.workers.dev';
 const PANEL_URL = 'https://hamedp.71hp.workers.dev';
